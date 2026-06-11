@@ -1,10 +1,11 @@
 {
-    "name": "magentron/laravel-password-exposed-validation-rule",
+    "name": "caseraph/laravel-password-exposed-validation-rule",
     "description": "Laravel validation rule that checks if a password has been exposed in a data breach (forked from dilneiss/laravel-password-exposed-validation-rule)",
     "type": "library",
 	"replace": {
 		"divineomega/laravel-password-exposed-validation-rule": "*",
-		"dilneiss/laravel-password-exposed-validation-rule": "*"
+		"dilneiss/laravel-password-exposed-validation-rule": "*",
+        "magentron/laravel-password-exposed-validation-rule": "*"
 	},
     "require": {
         "php": "^7.4||^8.0",
