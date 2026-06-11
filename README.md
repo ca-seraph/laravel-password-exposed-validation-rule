@@ -1,4 +1,4 @@
-(forked from [dilneiss/laravel-password-exposed-validation-rule](https://github.com/dilneiss/laravel-password-exposed-validation-rule))
+(forked from [magentron/laravel-password-exposed-validation-rule](https://github.com/magentron/laravel-password-exposed-validation-rule))
 
 # 🔒 Laravel Password Exposed Validation Rule
 
@@ -20,7 +20,7 @@ This package provides a Laravel validation rule that checks if a password has be
 To install, just run the following Composer command.
 
 ```
-composer require magentron/laravel-password-exposed-validation-rule
+composer require caseraph/laravel-password-exposed-validation-rule
 ```
 
 Please note that this package requires Laravel 5.1 or above.

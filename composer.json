@@ -8,7 +8,7 @@
 	},
     "require": {
         "php": "^7.4||^8.0",
-        "illuminate/contracts": "^5.1||^6.0||^7.0||^8.0||^9.0||^10.0||^11.0|^12.0",
+        "illuminate/contracts": "^5.1||^6.0||^7.0||^8.0||^9.0||^10.0||^11.0|^12.0|^13.0",
         "magentron/password_exposed": "^3.2.2",
         "symfony/cache": "^7.3.2"
     },
